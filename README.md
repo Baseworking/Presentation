@@ -1,2 +1,2 @@
 # Presentation
-Practicing Css animation
+Practicing CSS animation
